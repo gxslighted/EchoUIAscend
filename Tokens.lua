@@ -1,1 +1,1 @@
-return {token_gxs123, token_2}
+return {"token_gxs123"}
