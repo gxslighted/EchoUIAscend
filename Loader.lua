@@ -941,6 +941,7 @@ exit_button_1.MouseButton1Click:Connect(function()
 	btween3:Play()
 	wait(0.1)
 	btween4:Play()
+    wait(2)
 	game.CoreGui:FindFirstChild("EchoV2"):Destroy()
 end)
 
