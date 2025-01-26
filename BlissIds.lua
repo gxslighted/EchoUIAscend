@@ -28,4 +28,6 @@ return {
   5613869843, -- Master_Reb1rth
   3747018843, -- alexaaactlyyy
   2296292881, -- AA12_OVERLORD
+  465334354, -- pngmods
+  2603967789, -- Png_gltich
 }
