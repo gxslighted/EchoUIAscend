@@ -1,1 +1,31 @@
-return {7726934593}
+return {
+  7726934593, -- gxslighted
+  7870300601, -- fxllacy
+  3686637454, -- Headballer2007
+  3169297885, -- ghnghdh
+  2696693856, -- diacutiepie89
+  5381083787, -- XavierIsMineBro
+  5343719496, -- creamiesoda4
+  2775541803, -- Ukahab123
+  3505642494, -- GLITCHGOD753
+  1283686891, -- melker1476
+  6102404189, -- Timujin_phi07
+  5560635184, -- Xxdhelldog
+  7217701136, -- Fizzlett69
+  3372954764, -- 100plays0
+  7914573281, -- ERV_EchoUi
+  7868592672, -- GxslightedTheBaddie
+  7389717261, -- Nepali_MCbaba929
+  1768433886, -- TURUNA678382
+  2881900739, -- Ganesh00771
+  2410524504, -- Xonthebestnoob
+  7517821354, -- KSH_ALTSPEED
+  7459179189, -- VqBladee
+  1437874987, -- chaddd010
+  5329876738, -- Tractor_289
+  2789402904, -- Muscle_B0i
+  7379953841, -- Wassupdidiyudi
+  5613869843, -- Master_Reb1rth
+  3747018843, -- alexaaactlyyy
+  2296292881, -- AA12_OVERLORD
+}
