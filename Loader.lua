@@ -967,10 +967,8 @@ license_textbox_1.FocusLost:Connect(function()
 	local matchingToken = getMatchingToken()
 
 	if matchingToken then
-		print("Matching Token Found:", matchingToken)
 		if litesubscription then
-            license_textbox_1.Text = "Valid token."
-            wait(1.8)
+            wait(1.2)
             btween0:Play()
             wait(0.1)
             btween1:Play()
@@ -983,8 +981,7 @@ license_textbox_1.FocusLost:Connect(function()
 			-- Load Lite Script
 			print("LOADED LITE SCRIPT")
 		elseif plussubscription then
-            license_textbox_1.Text = "Valid token."
-            wait(1.8)
+            wait(1.2)
             btween0:Play()
             wait(0.1)
             btween1:Play()
@@ -997,8 +994,7 @@ license_textbox_1.FocusLost:Connect(function()
 			-- Load Plus Script
 			print("LOADED PLUS SCRIPT")
 		elseif blisssubscription then
-            license_textbox_1.Text = "Valid token."
-            wait(1.8)
+            wait(1.2)
             btween0:Play()
             wait(0.1)
             btween1:Play()
@@ -1010,16 +1006,7 @@ license_textbox_1.FocusLost:Connect(function()
             btween4:Play()
 			-- Load Bliss Script
 			print("LOADED BLISS SCRIPT")
-		else
-			license_textbox_1.Text = "No active subscription."
-			wait(1.8)
-			license_textbox_1.Text = ""
 		end
-	else
-		-- Invalid token case
-		license_textbox_1.Text = "Invalid token."
-		wait(1.5)
-		license_textbox_1.Text = ""
 	end
 end)
 
