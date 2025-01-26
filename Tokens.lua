@@ -4,5 +4,5 @@ return {
   "erv_gnjzq0847wdp", -- XavierIsMineBro - Master_Reb1rth - diacutiepie89
   "erv_fpwmk2376zvji", -- Fizzlett69 - ERV_EchoUi
   "erv_rbsjv4382nyuc", -- Melker1476 - Xxdhelldog - Timujin_phi07
-  "erv_hkptl7586xvfb", -- pngmods - Png_gltich
+  "erv_hkptl7586xvfb", -- pngmods - Png_gltich - NarutoShippuden10203
 }
