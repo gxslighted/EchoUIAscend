@@ -33,4 +33,6 @@ return {
   1723586429, -- aaaaaaavuxvux
   1760448577, -- vuxvuxhainsworth
   2881900739, -- Ganesh00771
+  3474183898, -- tsaqib_z
+  7879919164, -- ts4alt_666
 }
