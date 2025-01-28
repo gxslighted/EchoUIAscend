@@ -17,6 +17,7 @@ return {
   7868592672, -- GxslightedTheBaddie
   7389717261, -- Nepali_MCbaba929
   1768433886, -- TURUNA678382
+  7936101646, -- AlienSploits
   2881900739, -- Ganesh00771
   2410524504, -- Xonthebestnoob
   7517821354, -- KSH_ALTSPEED
