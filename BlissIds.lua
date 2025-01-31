@@ -7,7 +7,7 @@ return {
   5381083787, -- XavierIsMineBro
   5343719496, -- creamiesoda4
   2775541803, -- Ukahab123
-  3505642494, -- GLITCHGOD753
+  1107003100, -- DDD_090303
   1283686891, -- melker1476
   6102404189, -- Timujin_phi07
   5560635184, -- Xxdhelldog
