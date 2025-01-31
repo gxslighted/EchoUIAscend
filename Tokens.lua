@@ -13,4 +13,5 @@ return {
   "erv_nckwx3712ozje", -- Ganesh00771
   "erv_eozbw6954jpmv", -- tsaqib_z - ts4alt_666
   "erv_hqtlb4872yvnk", -- chaddd010
+  "erv_y48hy87ugr98e", -- KAI123337909 - kirito007026 - CVKN_dun - NLS_BlackiAfrica
 }
