@@ -41,4 +41,8 @@ return {
   7438578392, -- CVKN_dun
   5426329723, -- NLS_BlackiAfrica
   3105526285, -- Iwhwkk927
+  4514183122, -- Liamplayz366
+  564049982, -- PixelPlayz3D
+  5785832432, -- chxd_alt2
+  7459179189, -- VqBladee
 }
