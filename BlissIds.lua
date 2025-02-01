@@ -40,4 +40,5 @@ return {
   7137329836, -- kirito007026
   7438578392, -- CVKN_dun
   5426329723, -- NLS_BlackiAfrica
+  3105526285, -- Iwhwkk927
 }
