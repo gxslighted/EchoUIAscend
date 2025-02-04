@@ -47,4 +47,5 @@ return {
   7459179189, -- VqBladee
   7953233193, -- Vuxglitchingacclosml
   7599878040, -- Nohy82
+  2366853759, -- XOwen_osX
 }
